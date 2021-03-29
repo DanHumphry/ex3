@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ex3/static/css/main.135e11d8.chunk.css",
-    "main.js": "/ex3/static/js/main.85a5c007.chunk.js",
-    "main.js.map": "/ex3/static/js/main.85a5c007.chunk.js.map",
+    "main.js": "/ex3/static/js/main.fdfef36d.chunk.js",
+    "main.js.map": "/ex3/static/js/main.fdfef36d.chunk.js.map",
     "runtime-main.js": "/ex3/static/js/runtime-main.77422e7c.js",
     "runtime-main.js.map": "/ex3/static/js/runtime-main.77422e7c.js.map",
     "static/js/2.768a820a.chunk.js": "/ex3/static/js/2.768a820a.chunk.js",
@@ -12,14 +12,14 @@
     "index.html": "/ex3/index.html",
     "static/css/main.135e11d8.chunk.css.map": "/ex3/static/css/main.135e11d8.chunk.css.map",
     "static/js/2.768a820a.chunk.js.LICENSE.txt": "/ex3/static/js/2.768a820a.chunk.js.LICENSE.txt",
+    "static/media/chrome.f60d065f.gif": "/ex3/static/media/chrome.f60d065f.gif",
     "static/media/dan_velog2.29cd5271.gif": "/ex3/static/media/dan_velog2.29cd5271.gif",
-    "static/media/slide.91acf37a.gif": "/ex3/static/media/slide.91acf37a.gif",
     "static/media/websocket.8889a8ed.gif": "/ex3/static/media/websocket.8889a8ed.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.77422e7c.js",
     "static/js/2.768a820a.chunk.js",
     "static/css/main.135e11d8.chunk.css",
-    "static/js/main.85a5c007.chunk.js"
+    "static/js/main.fdfef36d.chunk.js"
   ]
 }
